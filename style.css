@@ -1,0 +1,40 @@
+.bg{
+background-color: #2B2B2B;
+height: 100vh;
+width: 100%;
+}
+h1{
+font-size: 85px;
+color: #F6F6F6;
+text-align: center;
+padding: 38px;
+font-family: "Bungee Shade";
+}
+.place{
+text-align: center;
+font-size: 45px;
+color: #F6F6F6;
+
+}
+.temp{
+color: #F6F6F6;
+text-align: center;
+font-size: 45px;
+}
+#extra{
+color: #F6F6F6;
+}
+#tempa{
+display: inline-block;
+}
+#Weather{
+color: #F6F6F6;
+text-align: center;
+font-size: 45px;
+}
+.metric{
+  color:#F6F6F6;
+}
+.metric:hover{ 
+    background-color: #006dcc;
+}
